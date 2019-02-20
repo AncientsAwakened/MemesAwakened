@@ -1,0 +1,9 @@
+author = Alphakip
+version = 0.1
+displayName = Memes Awakened
+includePDB = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.gif, *.piskel, *.dll
+hideCode = true
+hideResources = true
+includeSource = false
+modReferences = BaseMod
